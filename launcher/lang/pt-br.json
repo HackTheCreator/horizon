@@ -1238,5 +1238,7 @@
   "In the last build, on Horizon {commit} for {mods}, not on {horizon}": "Na última compilação, no Horizon {commit} por {mods}, não no {horizon}",
   "In the last build, on {horizon}": "Na última compilação, no {horizon}",
   "Duplicate native mod {id}.": "Mod nativo duplicado {id}.",
-  "Native and content mod ids differ.": "Os IDs dos mods nativos e de conteúdo são diferentes."
+  "Native and content mod ids differ.": "Os IDs dos mods nativos e de conteúdo são diferentes.",
+  "The server gets a copy: your single-player world stays as it is.": "O servidor recebe uma cópia: seu mundo de um jogador permanece como está.",
+  "You have no single-player world yet: play one first, or choose New world.": "Você ainda não tem um mundo de um jogador: jogue um primeiro ou escolha Novo mundo.",
 }
